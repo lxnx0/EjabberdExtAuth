@@ -1,0 +1,7 @@
+ae/teletronics/CommandType.class
+ae/teletronics/ExternalAuth$1.class
+my/domain/xmpp/auth/EjabberdExtAuth.class
+ae/teletronics/ExternalAuth.class
+my/domain/xmpp/auth/EjabberdExtAuthApplication.class
+ae/teletronics/UserManagement.class
+ae/teletronics/InputCommand.class
